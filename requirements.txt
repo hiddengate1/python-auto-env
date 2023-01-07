@@ -1,0 +1,5 @@
+matplotlib
+pandas
+webdriver-manager
+undetected_chromedriver
+PyVirtualDisplay
