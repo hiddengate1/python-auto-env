@@ -3,3 +3,4 @@ pandas
 webdriver-manager
 undetected_chromedriver
 PyVirtualDisplay
+python-telegram-bot
